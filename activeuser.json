@@ -64,11 +64,5 @@
         "key": "yonesvvv",
         "expirydate": "15-04-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "9fe5dca211c699a5",
-        "key": "yones",
-        "expirydate": "30-10-2025",
-        "Allowoffline": false
     }
 ]
