@@ -46,5 +46,11 @@
         "key": "younes",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9fe5dca211c699a5",
+        "key": "younes",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
 ]
