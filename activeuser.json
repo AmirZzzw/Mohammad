@@ -64,5 +64,11 @@
         "key": "9e29371a2f11fd17",
         "expirydate": "12-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cbfa3bad83a2b650",
+        "key": "mobin123M",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
