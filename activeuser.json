@@ -100,5 +100,11 @@
         "key": "MMD123h",
         "expirydate": "2025-10-15",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9e29371a2f11fd17",
+        "key": "cbfa3bad83a2b650",
+        "expirydate": "2025-10-15",
+        "Allowoffline": false
     }
 ]
