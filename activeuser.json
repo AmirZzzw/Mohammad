@@ -106,5 +106,11 @@
         "key": "cbfa3bad83a2b650",
         "expirydate": "2025-10-15",
         "Allowoffline": false
+    },
+    {
+        "device_id": "t",
+        "key": "t",
+        "expirydate": "t",
+        "Allowoffline": false
     }
 ]
