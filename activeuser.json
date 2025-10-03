@@ -112,5 +112,11 @@
         "key": "tt",
         "expirydate": "3-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9e29371a2f11fd17",
+        "key": "sE5Xun4bFU",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
     }
 ]
